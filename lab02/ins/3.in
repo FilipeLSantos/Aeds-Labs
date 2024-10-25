@@ -1,0 +1,20 @@
+le_polinomio A
+5
+0 10
+3 20
+5 30
+9 40
+44 50
+imprime A
+le_polinomio B
+5
+0 100
+2 200
+5 300
+9 40
+44 500
+imprime B
+subtrai C = A - B
+imprime C
+soma D = C + C
+imprime D

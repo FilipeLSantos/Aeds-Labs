@@ -1,0 +1,16 @@
+Definido A [ 0 ] = 10 .
+Definido A [ 3 ] = 20 .
+Definido A [ 5 ] = 30 .
+Definido A [ 9 ] = 40 .
+Definido A [ 44 ] = 50 .
+Definido A [ 46 ] = 700 .
+[(0,10),(3,20),(5,30),(9,40),(44,50),(46,700)]
+Definido B [ 0 ] = 100 .
+Definido B [ 3 ] = -20 .
+Definido B [ 5 ] = 300 .
+Definido B [ 7 ] = 70 .
+Definido B [ 9 ] = -40 .
+Definido B [ 44 ] = 500 .
+[(0,100),(3,-20),(5,300),(7,70),(9,-40),(44,500)]
+Somado C = A + B .
+[(0,110),(5,330),(7,70),(44,550),(46,700)]

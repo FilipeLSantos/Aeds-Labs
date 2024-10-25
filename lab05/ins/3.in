@@ -1,0 +1,37 @@
+insere 100
+imprime
+insere 50
+imprime
+insere 200
+imprime
+insere 70
+imprime
+insere 300
+imprime
+insere 150
+imprime
+insere 30
+imprime
+busca 30
+busca 150
+busca 300
+busca 100
+busca 75
+busca 70
+imprime
+remove 100
+imprime
+remove 150
+imprime
+remove 200
+imprime
+remove 300
+imprime
+remove 75
+imprime
+remove 70
+imprime
+remove 30
+imprime
+remove 50
+imprime

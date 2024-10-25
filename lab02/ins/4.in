@@ -1,0 +1,20 @@
+le_polinomio A
+6
+0 10
+3 20
+5 30
+9 40
+44 50
+46 700
+imprime A
+le_polinomio B
+6
+0 100
+3 -20
+5 300
+7 70
+9 -40
+44 500
+imprime B
+soma C = A + B
+imprime C

@@ -1,0 +1,28 @@
+Considere o problema de dados conjunto S com n objetos, com funções peso P:S->N e valor V:S->N, 
+e um natural M, encontrar um subconjunto X de S tal que a soma dos pesos dos elementos de X 
+seja menor do que ou igual a M e cuja soma dos valores dos elementos de X seja máxima. 
+Seu programa deve imprimir somente o valor ótimo de alguma solução ótima, sem precisar 
+identificá-la. 
+
+A entrada será dada na entrada padrão. A primeira linha conterá dois naturais 
+n e M (n <=20, M<=10^6). As n linhas seguintes conterão 2 naturais cada, representando 
+respectivamente o peso e o valor de um elemento de S.
+
+A saída deve ser dada em uma única linha contendo um único inteiro que indica o valor ótimo 
+de alguma solução ótima do problema. 
+
+Exemplo de entrada:
+5 100
+
+30 1000
+
+30 1100
+
+30 1200
+
+40 1500
+
+40 1400
+
+Exemplo de saída:
+3800

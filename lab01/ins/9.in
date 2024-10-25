@@ -1,0 +1,17 @@
+insere_inicio 10
+insere_inicio 30
+insere_inicio 20
+insere_inicio 50
+imprime
+remove_i_esimo 3
+imprime
+tamanho
+remove_fim
+imprime
+tamanho
+remove_inicio
+imprime
+tamanho
+remove_i_esimo 2
+imprime
+tamanho

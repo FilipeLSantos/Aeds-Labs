@@ -1,0 +1,26 @@
+Inserido 10 no fim.
+Inserido 30 no fim.
+Inserido 20 no fim.
+Inserido 50 no fim.
+Inserido 100 no inicio.
+Inserido 200 no inicio.
+Inserido 50 no fim.
+Inserido 300 no inicio.
+Inserido 50 no inicio.
+Inserido 400 no inicio.
+Inserido 500 no fim.
+Inserido 50 no fim.
+Inserido 100 no fim.
+Inserido 700 no inicio.
+(700,400,50,300,200,100,10,30,20,50,50,500,50,100)
+Valor 50 encontrado na posicao 3.
+Valor 100 encontrado na posicao 6.
+Valor 30 encontrado na posicao 8.
+Valor 700 encontrado na posicao 1.
+Valor 500 encontrado na posicao 12.
+Valor 300 encontrado na posicao 4.
+Valor 400 encontrado na posicao 2.
+Valor 20 encontrado na posicao 9.
+Valor 777 nao encontrado na lista.
+Valor 333 nao encontrado na lista.
+(700,400,50,300,200,100,10,30,20,50,50,500,50,100)

@@ -1,0 +1,55 @@
+Dado um natural n, e uma coleção W de subconjuntos de
+S={0,1,2,...,n-1}, encontrar um Wlinha subcoleção de W, se existir,
+tal que cada elemento de S aparece em precisamente um dos conjuntos
+dentro de Wlinha.
+
+Por exemplo, se n = 8, e W={A={0,1,2},B={0,2,4},C={1,2,5},D={2,4},
+E={1,3,5},F={3,5,7},G={2,7},H={1,6},I={2,4,6,7}}. Então, uma
+solução possível é Wlinha={B={0,2,4},F={3,5,7}, H={1,6}}.
+
+A entrada dada representará um único caso de teste.  A primeira
+linha da entrada contém um número natural n, representando o
+tamanho do conjunto S.  A segunda linha contém um número natural m
+representando o tamanho do conjunto W. As m linhas seguintes
+conterão, cada uma delas, a representação de um elemento de W.
+Cada elemento A de W será representado por uma linha que começa com
+um número natural k, representando o número de elementos do
+conjunto A, que é elemento de W. Em seguida, a linha representando
+A conterá k números naturais, iguais aos elementos de A. Estes
+número estarão ordenados.
+
+Os casos de teste passados terão 0<n<=15 e 0<m<=15. 
+
+Caso a instância passada na entrada não tenha solução, seu programa
+deve imprimir uma única linha contendo a palavra "Insoluvel" (sem
+acentos).  Caso a instância passada na entrada tenha solução
+Wlinha, seu programa deve imprimir uma linha contendo um natural R
+igual ao número de elementos de Wlinha, seguida de R linhas, onde
+cada linha representa um elemento de Wlinha. A representação de um
+elemento A de Wlinha é igual àquela de elementos de W na entrada.
+
+As entradas passadas ou i) não terão solução, ou ii) terão solução 
+única. 
+
+Por exemplo, o caso descrito no exemplo acima seria representado por
+uma entrada com as seguintes linhas: 
+
+8
+9
+3  0 1 2
+3  0 2 4
+3  1 2 5
+2  2 4
+3  1 3 5
+3  3 5 7
+2  2 7
+2  1 6
+4  2 4 6 7
+
+A saída para a entrada do exemplo acima seria:
+3
+3  0 2 4
+3  3 5 7
+2  1 6
+
+

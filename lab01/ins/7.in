@@ -1,0 +1,26 @@
+insere_fim 10
+insere_fim 30
+insere_fim 20
+insere_fim 50
+insere_inicio 100
+insere_inicio 200
+insere_fim 50
+insere_inicio 300
+insere_inicio 50
+insere_inicio 400
+insere_fim 500
+insere_fim 50
+insere_fim 100
+insere_inicio 700
+imprime
+busca 50
+busca 100
+busca 30
+busca 700
+busca 500
+busca 300
+busca 400
+busca 20
+busca 777
+busca 333
+imprime

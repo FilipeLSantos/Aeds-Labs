@@ -1,0 +1,17 @@
+Inserido 10 no inicio.
+Inserido 30 no inicio.
+Inserido 20 no inicio.
+Inserido 50 no inicio.
+(50,20,30,10)
+Elemento na posicao 3 removido.
+(50,20,10)
+Lista com tamanho 3.
+Removido 10 do fim.
+(50,20)
+Lista com tamanho 2.
+Removido 50 do inicio.
+(20)
+Lista com tamanho 1.
+Elemento na posicao 2 nao removido.
+(20)
+Lista com tamanho 1.

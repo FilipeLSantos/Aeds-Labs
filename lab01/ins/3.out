@@ -1,0 +1,15 @@
+Inserido 10 no inicio.
+Inserido 30 no inicio.
+Inserido 20 no inicio.
+Inserido 50 no inicio.
+(50,20,30,10)
+Removido 10 do fim.
+(50,20,30)
+Removido 30 do fim.
+(50,20)
+Removido 20 do fim.
+(50)
+Removido 50 do fim.
+()
+Removido -1 do fim.
+()

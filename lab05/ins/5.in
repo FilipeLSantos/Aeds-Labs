@@ -1,0 +1,401 @@
+insere 684
+imprime
+insere 442
+imprime
+insere 630
+imprime
+insere 484
+imprime
+insere 645
+imprime
+insere 988
+imprime
+insere 285
+imprime
+insere 416
+imprime
+insere 287
+imprime
+insere 550
+imprime
+insere 915
+imprime
+insere 650
+imprime
+insere 478
+imprime
+insere 957
+imprime
+insere 102
+imprime
+insere 800
+imprime
+insere 55
+imprime
+insere 902
+imprime
+insere 837
+imprime
+insere 41
+imprime
+insere 327
+imprime
+insere 540
+imprime
+insere 653
+imprime
+insere 865
+imprime
+insere 682
+imprime
+insere 739
+imprime
+insere 491
+imprime
+insere 232
+imprime
+insere 849
+imprime
+insere 184
+imprime
+insere 532
+imprime
+insere 167
+imprime
+insere 20
+imprime
+insere 300
+imprime
+insere 198
+imprime
+insere 438
+imprime
+insere 102
+imprime
+insere 877
+imprime
+insere 584
+imprime
+insere 380
+imprime
+insere 556
+imprime
+insere 764
+imprime
+insere 5
+imprime
+insere 367
+imprime
+insere 657
+imprime
+insere 961
+imprime
+insere 21
+imprime
+insere 903
+imprime
+insere 586
+imprime
+insere 342
+imprime
+insere 649
+imprime
+insere 179
+imprime
+insere 161
+imprime
+insere 322
+imprime
+insere 577
+imprime
+insere 889
+imprime
+insere 475
+imprime
+insere 345
+imprime
+insere 613
+imprime
+insere 609
+imprime
+insere 457
+imprime
+insere 942
+imprime
+insere 19
+imprime
+insere 581
+imprime
+insere 956
+imprime
+insere 216
+imprime
+insere 679
+imprime
+insere 548
+imprime
+insere 392
+imprime
+insere 308
+imprime
+insere 419
+imprime
+insere 474
+imprime
+insere 970
+imprime
+insere 552
+imprime
+insere 736
+imprime
+insere 576
+imprime
+insere 379
+imprime
+insere 174
+imprime
+insere 913
+imprime
+insere 287
+imprime
+insere 80
+imprime
+insere 751
+imprime
+insere 561
+imprime
+insere 869
+imprime
+insere 100
+imprime
+insere 47
+imprime
+insere 199
+imprime
+insere 387
+imprime
+insere 541
+imprime
+insere 885
+imprime
+insere 470
+imprime
+insere 466
+imprime
+insere 202
+imprime
+insere 740
+imprime
+insere 639
+imprime
+insere 833
+imprime
+insere 934
+imprime
+insere 772
+imprime
+insere 405
+imprime
+insere 883
+imprime
+[684, 442, 630, 484, 645, 988, 285, 416, 287, 550, 915, 650, 478, 957, 102, 800, 55, 902, 837, 41, 327, 540, 653, 865, 682, 739, 491, 232, 849, 184, 532, 167, 20, 300, 198, 438, 102, 877, 584, 380, 556, 764, 5, 367, 657, 961, 21, 903, 586, 342, 649, 179, 161, 322, 577, 889, 475, 345, 613, 609, 457, 942, 19, 581, 956, 216, 679, 548, 392, 308, 419, 474, 970, 552, 736, 576, 379, 174, 913, 287, 80, 751, 561, 869, 100, 47, 199, 387, 541, 885, 470, 466, 202, 740, 639, 833, 934, 772, 405, 883]
+remove 548
+imprime
+remove 484
+imprime
+remove 470
+imprime
+remove 174
+imprime
+remove 198
+imprime
+remove 934
+imprime
+remove 100
+imprime
+remove 609
+imprime
+remove 392
+imprime
+remove 682
+imprime
+remove 342
+imprime
+remove 41
+imprime
+remove 837
+imprime
+remove 877
+imprime
+remove 877
+imprime
+remove 470
+imprime
+remove 653
+imprime
+remove 581
+imprime
+remove 653
+imprime
+remove 167
+imprime
+remove 552
+imprime
+remove 576
+imprime
+remove 285
+imprime
+remove 970
+imprime
+remove 586
+imprime
+remove 740
+imprime
+remove 751
+imprime
+remove 764
+imprime
+remove 19
+imprime
+remove 20
+imprime
+remove 300
+imprime
+remove 345
+imprime
+remove 457
+imprime
+remove 548
+imprime
+remove 380
+imprime
+remove 970
+imprime
+remove 345
+imprime
+remove 457
+imprime
+remove 438
+imprime
+remove 466
+imprime
+remove 556
+imprime
+remove 609
+imprime
+remove 913
+imprime
+remove 327
+imprime
+remove 988
+imprime
+remove 532
+imprime
+remove 198
+imprime
+remove 800
+imprime
+remove 889
+imprime
+remove 102
+imprime
+remove 630
+imprime
+remove 484
+imprime
+remove 540
+imprime
+remove 739
+imprime
+remove 327
+imprime
+remove 684
+imprime
+remove 202
+imprime
+remove 491
+imprime
+remove 865
+imprime
+remove 167
+imprime
+remove 287
+imprime
+remove 41
+imprime
+remove 653
+imprime
+remove 653
+imprime
+remove 21
+imprime
+remove 942
+imprime
+remove 416
+imprime
+remove 865
+imprime
+remove 285
+imprime
+remove 232
+imprime
+remove 161
+imprime
+remove 915
+imprime
+remove 470
+imprime
+remove 484
+imprime
+remove 837
+imprime
+remove 630
+imprime
+remove 913
+imprime
+remove 885
+imprime
+remove 576
+imprime
+remove 380
+imprime
+remove 653
+imprime
+remove 367
+imprime
+remove 19
+imprime
+remove 342
+imprime
+remove 657
+imprime
+remove 47
+imprime
+remove 55
+imprime
+remove 849
+imprime
+remove 577
+imprime
+remove 736
+imprime
+remove 576
+imprime
+remove 869
+imprime
+remove 609
+imprime
+remove 833
+imprime
+remove 736
+imprime
+remove 849
+imprime
+remove 577
+imprime
+remove 475
+imprime
+remove 800
+imprime
+remove 877
+imprime

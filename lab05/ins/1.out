@@ -1,0 +1,21 @@
+Inserido 100.
+[100:e=.,d=.]
+Inserido 50.
+[100:e=[50:e=.,d=.],d=.]
+Inserido 200.
+[100:e=[50:e=.,d=.],d=[200:e=.,d=.]]
+Inserido 70.
+[100:e=[50:e=.,d=[70:e=.,d=.]],d=[200:e=.,d=.]]
+Inserido 300.
+[100:e=[50:e=.,d=[70:e=.,d=.]],d=[200:e=.,d=[300:e=.,d=.]]]
+Inserido 150.
+[100:e=[50:e=.,d=[70:e=.,d=.]],d=[200:e=[150:e=.,d=.],d=[300:e=.,d=.]]]
+Inserido 30.
+[100:e=[50:e=[30:e=.,d=.],d=[70:e=.,d=.]],d=[200:e=[150:e=.,d=.],d=[300:e=.,d=.]]]
+Elemento 30 encontrado.
+Elemento 150 encontrado.
+Elemento 300 encontrado.
+Elemento 100 encontrado.
+Elemento 75 nao encontrado.
+Elemento 70 encontrado.
+[100:e=[50:e=[30:e=.,d=.],d=[70:e=.,d=.]],d=[200:e=[150:e=.,d=.],d=[300:e=.,d=.]]]
